@@ -2,6 +2,8 @@
 I make Things, PCB Designs, 3D Designs, WebApps & much more.
 You can reach me on [Instagram](instagram.com/maker.vinod) or email me on maker.vinodm@gmail.com
 
+Check out my website at: [www.makervinod.in](www.makervinod.in)
+
 **Happy Making !!!**
 
 
