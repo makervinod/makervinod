@@ -9,6 +9,7 @@ Check out my latest project at: [embedui.github,io](https://embedui.github.io)
 
 **Happy Making !!!**
 
+[![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=makervinod)](https://github.com/makervinod/github-readme-stats)
 
 <!---
 makervinod/makervinod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
