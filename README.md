@@ -15,7 +15,8 @@ Check out my latest project at: [embedui.github,io](https://embedui.github.io)
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+JavaScript   24 mins         ███████████████████████░░   92.23 % 
+HTML         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
 ```
 <!--END_SECTION:waka-->
 
