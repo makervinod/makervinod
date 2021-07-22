@@ -15,8 +15,11 @@ Check out my latest project at: [embedui.github,io](https://embedui.github.io)
 
 <!--START_SECTION:waka-->
 ```text
-JavaScript   24 mins         ███████████████████████░░   92.23 % 
-HTML         1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+JavaScript   3 hrs 13 mins   ████████████████░░░░░░░░░   63.99 % 
+CSS          1 hr 33 mins    ███████▓░░░░░░░░░░░░░░░░░   30.87 % 
+SCSS         7 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 % 
+JSON         4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+HTML         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
 ```
 <!--END_SECTION:waka-->
 
