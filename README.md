@@ -13,6 +13,7 @@ Check out my latest project at: [embedui.github,io](https://embedui.github.io)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=makervinod)](https://github.com/makervinod/github-readme-stats)
 
+📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
 JavaScript   3 hrs 13 mins   ████████████████░░░░░░░░░   63.99 % 
