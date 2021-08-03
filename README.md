@@ -10,7 +10,7 @@ Check out my latest project at: [embedui.github,io](https://embedui.github.io)
 **Happy Making !!!**
 
 <br>
-<h3 align="center">Software</h3>
+
 <h4 align="center">Languages | Frameworks | Tools | Platforms</h4>
 
 <p align="center">
@@ -65,7 +65,7 @@ Check out my latest project at: [embedui.github,io](https://embedui.github.io)
   </a>
 </p>
 
-<br>
+<br><br>
 
 [![Vinod's GitHub stats](https://github-readme-stats.vercel.app/api?username=makervinod)](https://github.com/makervinod/github-readme-stats)
 
