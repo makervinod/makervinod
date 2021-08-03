@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Maker Vinod
+## 👋 Hi, I’m Vinod
 I make Things, PCB Designs, 3D Designs, WebApps & much more.
 You can reach me on [Instagram](instagram.com/maker.vinod) or email me on maker.vinodm@gmail.com
 
