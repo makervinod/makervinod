@@ -1,5 +1,9 @@
 ## 👋 Hi, I’m Vinod
+
+I'm an Entrepreneur & a self-taught software & embedded developer.  
+
 I make Things, PCB Designs, 3D Designs, WebApps & much more.
+
 You can reach me on [Instagram](instagram.com/maker.vinod) or email me on maker.vinodm@gmail.com
 
 Check out my website at: [https://makervinod.in](https://.makervinod.in)
