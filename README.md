@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Vinod
 
-I'm an Entrepreneur & a self-taught software & embedded developer.  
+I'm a self-taught software & embedded developer.  
 
 I make Things, PCB Designs, 3D Designs, WebApps & much more.
 
