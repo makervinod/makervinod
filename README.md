@@ -78,8 +78,7 @@ Check out my latest project at: [embedui.github,io](https://embedui.github.io)
 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-Python       21 mins         ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣷⣀   95.49 % 
-Git Config   1 min           ⣿⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.51 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
