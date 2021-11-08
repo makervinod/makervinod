@@ -78,7 +78,9 @@ Check out my latest project at: [embedui.github,io](https://embedui.github.io)
 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+PHP               1 hr 26 mins    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀   82.66 % 
+Text              15 mins         ⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   14.58 % 
+Gettext Catalog   2 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   02.76 % 
 ```
 <!--END_SECTION:waka-->
 
