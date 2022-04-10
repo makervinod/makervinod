@@ -23,7 +23,7 @@ Check out my latest project at: [embedui.github,io](https://embedui.github.io)
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
 	</a>
 	<a href="https://www.djangoproject.com/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40" />
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" />
 	</a>
 	<a href="https://www.electronjs.org/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40" />
