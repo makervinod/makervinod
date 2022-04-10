@@ -61,6 +61,9 @@ Check out my latest project at: [embedui.github,io](https://embedui.github.io)
 	<a href="https://github.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="github" width="40" height="40" />
 	</a>
+	<a href="https://www.docker.com" target="_blank">
+	<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40" />
+	</a>
 	<a href="https://www.linux.org/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40" />
   </a>
