@@ -82,7 +82,8 @@ Check out my latest project at: [embedui.github,io](https://embedui.github.io)
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+JavaScript   2 hrs 16 mins   ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣤⣀⣀   89.44 %
+SCSS         16 mins         ⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   10.56 %
 ```
 
 <!--END_SECTION:waka-->
