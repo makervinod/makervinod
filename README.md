@@ -81,7 +81,7 @@ Check out my latest project at: [embedui.github,io](https://embedui.github.io)
 📊 Weekly development breakdown
 <!--START_SECTION:waka-->
 
-```text
+```txt
 No activity tracked
 ```
 
