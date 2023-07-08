@@ -18,9 +18,13 @@ Check out my latest project at: [embedui.github,io](https://embedui.github.io)
 <h4 align="center">Languages | Frameworks | Tools | Platforms</h4>
 
 <p align="center">
-  <a href="https://pt-br.reactjs.org/" target="_blank">
+  <a href="https://reactjs.org/" target="_blank">
 		<img 
 			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
+	</a>
+	  <a href="https://pt-br.reactjs.org/" target="_blank">
+		<img 
+			src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-plain.svg" alt="angular" width="40" height="40" />
 	</a>
 	<a href="https://www.djangoproject.com/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-plain.svg" alt="django" width="40" height="40" />
